@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:9D4EDD,100:FF006E&height=220&section=header&text=Hi%20There!%20👋%20I'm%20Samhitha&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Securing%20systems%20%7C%20Building%20apps%20%7C%20Breaking%20things%20(ethically)&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duplicate=false&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=who am i+%3D+Samhitha+Sree+Kanchiraju;role+%3D+%22CS+%26+Cybersecurity+Student%22;passion+%3D+%22Full+Stack+%2B+Security%22;println(%22thanks+for+stopping+by+!%22)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duplicate=false&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=who+am+i+%3D+Samhitha+Sree+Kanchiraju;role+%3D+%22CS+%26+Cybersecurity+Student%22;passion+%3D+%22Full+Stack+%2B+Security%22;println(%22thanks+for+stopping+by+!%22)" alt="Typing SVG" />
 
 <br/>
 
