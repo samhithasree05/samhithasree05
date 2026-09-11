@@ -1,172 +1,156 @@
-Hi there..........
 <div align="center">
 
-# `>_` SAMHITHA SREE KANCHIRAJU
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duplicate=false&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=whoami+%3D+Samhitha+Sree+Kanchiraju;role+%3D+%22CS+%26+Cybersecurity+Student%22;status+%3D+%22Securing+systems%2C+building+apps%22;println(%22Welcome+to+my+terminal%22)" alt="Typing SVG" />
 
-### Computer Science & Cybersecurity Student
+<br/>
 
-**Cybersecurity | Java | Security Audit | Web Development | Data Analytics | AI**
+```
+┌──(samhitha㉿portfolio)-[~]
+└─$ cat about_me.txt
+```
+
+</div>
+
+<table align="center" border="0">
+<tr>
+<td width="100%">
+
+```yaml
+name:        Samhitha Sree Kanchiraju
+role:        CS & Cybersecurity Student
+education:   B.Tech, Sri Indu College of Engineering and Technology (2026)
+focus:       Cybersecurity Auditing | Secure Systems | Full Stack Dev
+currently:   Cybersecurity Intern @ Tripgain
+mindset:     "learn it → break it → secure it → build it"
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📡 `scan --profile`
+
+- 🎓 B.Tech, Computer Science & Cybersecurity — Class of 2026
+- 🛡️ Cybersecurity Intern at **Tripgain**, currently in the field
+- 🔍 Interested in security auditing, threat analysis, and secure application design
+- 💻 Also build full stack apps — because the best defenders understand how things are built
+- 📊 Curious about data analytics and AI, and how they intersect with security
+- 🌱 Always adding new tools to the arsenal — if it's a cybersecurity skill, I'll learn it
+
+---
+
+## 🧰 `ls -la /arsenal`
+
+<table align="center" border="0" cellspacing="10">
+<tr>
+<td valign="top" width="50%">
+
+**🔐 Security**
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**💾 Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+**🌐 Web**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**🛠️ Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🗂️ `cat incident_log.md` — Featured Projects
+
+### 🔒 Secure Chat Application — *Major Project, May 2026*
+> End-to-end encrypted messaging built from the socket layer up.
+
+`Java` · `Socket Programming` · `MySQL` · `AES/RSA Encryption` · `JDBC`
+
+- Custom client-server architecture over raw sockets
+- AES/RSA hybrid encryption for message confidentiality
+- Persistent, structured storage via JDBC + MySQL
+
+---
+
+### 📰 Fake News Detection System
+> Machine learning model trained to flag misinformation.
+
+`Python` · `Machine Learning` · `Pandas` · `NumPy`
+
+- Text preprocessing and feature extraction pipeline
+- Classification model to detect fake vs. real news articles
+- Built entirely on the Python data science stack
+
+---
+
+### 🧳 Lost and Found Management System
+> A practical system for tracking lost items and claims end-to-end.
+
+---
+
+## 🏅 `cat certifications.log`
+
+```
+[✔] Cybersecurity Analyst Job Simulation — Forage
+[✔] Public Audit Certification — Swayam Plus
+[✔] JavaScript Full Stack — Gradious Technologies
+```
+
+---
+
+## 📈 `top -o activity`
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=samhithasree05&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samhithasree05&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/00FF9C/samhithasree05" alt="Contribution Grid" width="90%" />
+</div>
+
+---
+
+## 📡 `connect --to Samhitha`
+
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-samhithasree05-181717?style=for-the-badge&logo=github)](https://github.com/samhithasree05)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samhitha%20Sree-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samhitha-sree-1a6741265/)
-
-<br>
-
-`Code` → `Analyze` → `Secure` → `Improve`
 
 </div>
 
 ---
 
-## `$ whoami`
+<div align="center">
 
-> **Computer Science student building toward a career in Cybersecurity.**
+```
+[+] access granted
+[+] session: exploring code, cracking curiosity, one commit at a time
+```
 
-I'm **Samhitha Sree Kanchiraju**, a B.Tech Computer Science & Engineering student at **Sri Indu College of Engineering and Technology**, graduating in **2026**.
+<sub>💚 *"Secure the system. Ship the product. Repeat."*</sub>
 
-My primary interests are **Cybersecurity, Security Auditing, Java, Web Development, Data Analytics, and AI**.
-
-I like working at the intersection of **software and security** — understanding how applications are built, how systems communicate, how vulnerabilities occur, and how technology can be made more secure.
-
----
-
-## `01 // ABOUT ME`
-
-| | |
-|---|---|
-| **Education** | B.Tech — Computer Science & Engineering |
-| **College** | Sri Indu College of Engineering and Technology |
-| **Graduation** | 2026 |
-| **Primary Focus** | Cybersecurity & Security Auditing |
-| **Development** | Java, Web Development |
-| **Data & AI** | Python, Pandas, NumPy, Machine Learning |
-| **Systems** | Linux, Kali Linux |
-| **Networking** | Networking Fundamentals, Packet Analysis |
-| **Current Role** | Cybersecurity Intern — Tripgain |
-
----
-
-## `02 // TECH STACK`
-
-### Programming
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### Cybersecurity
-
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Security concepts**
-
-`Networking` · `Packet Analysis` · `Cryptography` · `Web Security`  
-`Vulnerability Assessment` · `Security Auditing` · `Authentication`  
-`Authorization` · `Secure Coding` · `OWASP Fundamentals` · `Log Analysis`  
-`Incident Response Fundamentals`
-
-**Security tools I'm learning**
-
-`Wireshark` · `Nmap` · `Burp Suite` · `OWASP ZAP`  
-`Metasploit` · `Nikto` · `Gobuster` · `John the Ripper` · `Hashcat`
-
-### Data & AI
-
-`Python` · `Pandas` · `NumPy` · `Data Analysis` · `Machine Learning`
-
-### Developer Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-# `03 // FEATURED PROJECTS`
-
-## `01` Secure Chat Application
-
-### Major Project — May 2026
-
-A secure client-server chat application built around encrypted communication and secure data handling.
-
-**Tech Stack**
-
-`Java` · `Socket Programming` · `MySQL` · `JDBC` · `AES` · `RSA`
-
-**What I worked with**
-
-- Client-server communication using Java Socket Programming
-- AES encryption for protecting messages
-- RSA for asymmetric cryptographic operations
-- MySQL database integration
-- JDBC connectivity
-- Secure communication concepts
-- Application-level security
-
----
-
-## `02` Fake News Detection System
-
-A machine-learning based system designed to detect and classify potentially fake news.
-
-**Tech Stack**
-
-`Python` · `Machine Learning` · `Pandas` · `NumPy`
-
-**What I worked with**
-
-- Dataset preprocessing
-- Data analysis using Pandas
-- Numerical processing using NumPy
-- Machine-learning classification
-- Real-world data-driven problem solving
-
----
-
-## `03` Lost & Found Management System
-
-A web-based application designed to manage and organize lost and found items.
-
-**Focus**
-
-- Lost and found item reporting
-- Item management and tracking
-- Search and retrieval
-- User-oriented web development
-- Structured data handling
-- Database-driven application concepts
-
----
-
-# `04 // EXPERIENCE`
-
-## Cybersecurity Intern — Tripgain
-
-**Present**
-
-Currently gaining practical exposure to cybersecurity concepts and professional security workflows.
-
-### Areas of exposure
-
-```text
-Cybersecurity Fundamentals
-        ↓
-Security Analysis
-        ↓
-Networking & Packet Analysis
-        ↓
-Linux & Security Tools
-        ↓
-Security Auditing
+</div>
