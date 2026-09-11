@@ -8,9 +8,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=samhithasree05&style=for-the-badge&color=9D4EDD&label=PROFILE+VIEWS" alt="profile views"/>
 &nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=00F5FF&label=STATUS&query=%24.status&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsamhithasree05" alt="status"/>
-&nbsp;
-![Visitors](https://img.shields.io/badge/status-securing_systems-FF006E?style=for-the-badge)
+<img src="https://img.shields.io/badge/status-securing_systems-FF006E?style=for-the-badge" alt="status"/>
 
 </div>
 
